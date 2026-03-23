@@ -23,4 +23,3 @@ class CreateTokenView(ObtainAuthToken):
     renderer_classes = api_settings.DEFAULT_RENDERER_CLASSES
     authentication_classes = ()
     permission_classes = (AllowAny,)
-
