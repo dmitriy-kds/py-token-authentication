@@ -146,5 +146,3 @@ REST_FRAMEWORK = {
         "cinema.permissions.IsAdminOrIfAuthenticatedReadOnly",
     ],
 }
-
-
